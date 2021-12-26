@@ -1,5 +1,5 @@
 # DTE-Bengaluru  
-This repository contains the materials for the **"One Week Faculty Development Programme on Thinking Programming"** workshop carried out at National Institite of Technical Teacher's Training and Research (NITTR), Extension Center, SJP Campus, Sheshadri Road, KR Circle, Bengaluru - 01 from 20th December to 23th December 2021.  
+This repository contains the materials for the **"One Week Faculty Development Programme on Thinking Programming"** workshop carried out at National Institite of Technical Teacher's Training and Research (NITTR), Extension Center, SJP Campus, Sheshadri Road, KR Circle, Bengaluru - 01 from 20th December to 23rd December 2021.  
 
 **Resource Persons**  
 1. **Dr.Gowrishankar S.,** Professor, Department of Computer Science and Engineering, Dr.Ambedkar Institute of Technology, Bengaluru - 56, Karnataka.  
